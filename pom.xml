@@ -18,12 +18,12 @@
        <repository>
     <id>releases</id>
     <!-- CHANGE HERE by your team nexus server -->
-    <url>http://54.166.221.78:8081/repository/maven-releases/</url>
+    <url>https://github.com/kshitijchaudhari/HelloWorldMaven.git</url>
   </repository>
   <snapshotRepository>
     <id>snapshots</id>
     <!-- CHANGE HERE by your team nexus server -->
-    <url>http://54.166.221.78:8081/repository/maven-snapshots/</url>
+    <url>https://github.com/kshitijchaudhari/HelloWorldMaven.git</url>
   </snapshotRepository>
    </distributionManagement>
 
